@@ -9,6 +9,7 @@
 * python3 clocgithub.py $the_github_https_address.git
 
 ## Example
+* If I want to count the line of code on this GitHub repo, https://github.com/qemu/qemu.git
 ```
 % python3 clocgithub.py https://github.com/qemu/qemu.git
 Cloning into '.clocOnGitHubtmp'...
